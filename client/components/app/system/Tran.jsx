@@ -1,0 +1,1 @@
+Tran = _i18n.createComponent();

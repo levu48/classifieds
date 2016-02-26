@@ -1,0 +1,17 @@
+a.appTitle:link, a.appTitle:visited, a.appTitle:hover, a.appTitle:active {
+    color: white;
+    text-decoration: none;
+}
+
+.appTitle {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body {
+    margin: 0;
+}
+
+td {
+    vertial-align: middle;
+}

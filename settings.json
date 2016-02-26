@@ -1,0 +1,8 @@
+{ 
+    "galaxy.meteor.com": { 
+        "env": { 
+            "ROOT_URL": "http://banmua.us", 
+            "MONGO_URL": "mongodb://<user>:<password>@aws-us-east-1-portal.10.dblayer.com:10334/banmua"
+        } 
+    }
+}
