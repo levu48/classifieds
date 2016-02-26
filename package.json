@@ -11,14 +11,18 @@
   "license": "ISC",
   "dependencies": {
     "browserify-resolutions": "^1.0.6",
+    "chai": "^3.5.0",
     "cheerio": "^0.19.0",
+    "enzyme": "^2.0.0",
     "fs": "0.0.2",
     "history": "^1.17.0",
+    "mocha": "^2.4.5",
     "nools": "^0.4.1",
     "pdfmake": "^0.1.18",
     "react": "^0.14.7",
     "react-bootstrap": "^0.28.2",
     "react-codemirror": "^0.2.5",
-    "react-tap-event-plugin": "^0.2.1"
+    "react-tap-event-plugin": "^0.2.1",
+    "sinon": "^1.17.3"
   }
 }
