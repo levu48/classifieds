@@ -10,4 +10,5 @@ It is developed with Meteor 1.3beta, React, Material-UI, MongoDB, Leaflet, Googl
 and Nools.
 
 It is live for testing at http://banmua.us. Its server is hosted by galaxy.meteor.com
-with database service comes from compose.io. Beware that it is still under active construction.
+with database service comes from compose.io. Beware that it is still under active construction
+and in the process of migrating to the Mantra specifications.
