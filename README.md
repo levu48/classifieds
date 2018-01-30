@@ -1,6 +1,6 @@
-# banmua
+# classifieds
 
-Banmua is a classified ads and directory web application integrated with software agent technology.
+Classifieds is a classified ads and directory web application integrated with software agent technology.
 Sellers and buyers can create software agents using rule-based expert systems to express
 what they are looking for and how to conduct negotiation. Agents run in the background
 listening and communicating with other agents to find what are needed for their owners.
